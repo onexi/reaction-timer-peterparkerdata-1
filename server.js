@@ -1,3 +1,6 @@
+// Hello world
+// Hello again from codespace
+
 // server.js
 const express = require('express');
 const app = express();
